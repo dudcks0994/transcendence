@@ -3,6 +3,8 @@ sunko, youngcki, hyungjuk, surkim, yeonwkan 과 함께하는 신나는 트센 :-
 
 과제 목표 : VanilaJS와 Django를 이용해 핑퐁 게임 웹사이트 구현
 
+과제 명세사항 및 세부 구현, 제한사항은 [여기](https://github.com/dudcks0994/transcendence/blob/main/subject.md)
+
 #### Backend
 - Django와 Django REST framework를 사용하여 API서버 구현
 	- Restful API에 대한 기본적인 이해와 Django REST framework 사용
