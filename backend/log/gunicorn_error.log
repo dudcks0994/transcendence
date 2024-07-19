@@ -1,0 +1,938 @@
+2024-06-26 21:55:21,369 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 21:55:21,370 [INFO] message=Listening at: http://0.0.0.0:8000 (26)
+2024-06-26 21:55:21,372 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 21:55:21,376 [INFO] message=Booting worker with pid: 27
+2024-06-26 21:55:23,245 [INFO] message=Started server process [27]
+2024-06-26 21:55:23,252 [INFO] message=Waiting for application startup.
+2024-06-26 21:55:23,253 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 21:55:23,254 [INFO] message=Application startup complete.
+2024-06-26 21:55:57,840 [INFO] message=('172.30.0.13', 47504) - "WebSocket /ws/lobby/" [accepted]
+2024-06-26 21:55:57,842 [INFO] message=connection open
+2024-06-26 21:55:57,905 [INFO] message=('172.30.0.13', 47530) - "WebSocket /ws/online/" [accepted]
+2024-06-26 21:55:57,907 [INFO] message=connection open
+2024-06-26 21:56:01,940 [INFO] message=connection closed
+2024-06-26 21:56:01,984 [INFO] message=('172.30.0.13', 47548) - "WebSocket /ws/room/1/" [accepted]
+2024-06-26 21:56:01,985 [INFO] message=connection open
+2024-06-26 21:56:02,528 [INFO] message=connection closed
+2024-06-26 21:56:02,575 [INFO] message=('172.30.0.13', 47618) - "WebSocket /ws/lobby/" [accepted]
+2024-06-26 21:56:02,577 [INFO] message=connection open
+2024-06-26 21:57:18,437 [INFO] message=connection closed
+2024-06-26 21:57:18,438 [INFO] message=connection closed
+2024-06-26 21:57:58,289 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 21:57:58,291 [INFO] message=Listening at: http://0.0.0.0:8000 (27)
+2024-06-26 21:57:58,292 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 21:57:58,296 [INFO] message=Booting worker with pid: 28
+2024-06-26 21:57:59,891 [INFO] message=Started server process [28]
+2024-06-26 21:57:59,893 [INFO] message=Waiting for application startup.
+2024-06-26 21:57:59,894 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 21:57:59,895 [INFO] message=Application startup complete.
+2024-06-26 21:58:04,962 [INFO] message=('172.30.0.13', 52534) - "WebSocket /ws/lobby/" [accepted]
+2024-06-26 21:58:04,967 [INFO] message=connection open
+2024-06-26 21:58:05,032 [INFO] message=('172.30.0.13', 52552) - "WebSocket /ws/online/" [accepted]
+2024-06-26 21:58:05,036 [INFO] message=connection open
+2024-06-26 21:58:07,327 [INFO] message=connection closed
+2024-06-26 21:58:07,376 [INFO] message=('172.30.0.13', 48506) - "WebSocket /ws/room/1/" [accepted]
+2024-06-26 21:58:07,378 [INFO] message=connection open
+2024-06-26 21:58:07,863 [INFO] message=connection closed
+2024-06-26 21:58:07,922 [INFO] message=('172.30.0.13', 48558) - "WebSocket /ws/lobby/" [accepted]
+2024-06-26 21:58:07,924 [INFO] message=connection open
+2024-06-26 22:04:25,362 [INFO] message=connection closed
+2024-06-26 22:04:25,364 [INFO] message=connection closed
+2024-06-26 22:04:53,530 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:04:53,531 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 22:04:53,532 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:04:53,535 [INFO] message=Booting worker with pid: 22
+2024-06-26 22:04:55,075 [INFO] message=Started server process [22]
+2024-06-26 22:04:55,077 [INFO] message=Waiting for application startup.
+2024-06-26 22:04:55,078 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:04:55,079 [INFO] message=Application startup complete.
+2024-06-26 22:08:23,154 [INFO] message=('172.30.0.13', 33068) - "WebSocket /ws/lobby/" 403
+2024-06-26 22:08:23,156 [INFO] message=connection rejected (403 Forbidden)
+2024-06-26 22:08:23,161 [INFO] message=connection closed
+2024-06-26 22:08:23,192 [INFO] message=('172.30.0.13', 33070) - "WebSocket /ws/online/" 403
+2024-06-26 22:08:23,194 [INFO] message=connection rejected (403 Forbidden)
+2024-06-26 22:08:23,196 [INFO] message=connection closed
+2024-06-26 22:09:46,051 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:09:46,065 [INFO] message=Listening at: http://0.0.0.0:8000 (27)
+2024-06-26 22:09:46,066 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:09:46,080 [INFO] message=Booting worker with pid: 28
+2024-06-26 22:09:47,851 [INFO] message=Started server process [28]
+2024-06-26 22:09:47,859 [INFO] message=Waiting for application startup.
+2024-06-26 22:09:47,860 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:09:47,867 [INFO] message=Application startup complete.
+2024-06-26 22:09:51,608 [INFO] message=('172.30.0.13', 44992) - "WebSocket /ws/lobby/" [accepted]
+2024-06-26 22:09:51,653 [INFO] message=connection open
+2024-06-26 22:09:51,759 [INFO] message=('172.30.0.13', 45020) - "WebSocket /ws/online/" [accepted]
+2024-06-26 22:09:51,772 [INFO] message=connection open
+2024-06-26 22:09:53,857 [INFO] message=connection closed
+2024-06-26 22:09:53,944 [INFO] message=('172.30.0.13', 45032) - "WebSocket /ws/room/1/" [accepted]
+2024-06-26 22:09:53,947 [INFO] message=connection open
+2024-06-26 22:09:54,382 [INFO] message=connection closed
+2024-06-26 22:09:54,515 [INFO] message=('172.30.0.13', 45080) - "WebSocket /ws/lobby/" [accepted]
+2024-06-26 22:09:54,516 [INFO] message=connection open
+2024-06-26 22:11:10,485 [INFO] message=connection closed
+2024-06-26 22:11:10,486 [INFO] message=connection closed
+2024-06-26 22:11:40,073 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:11:40,082 [INFO] message=Listening at: http://0.0.0.0:8000 (27)
+2024-06-26 22:11:40,092 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:11:40,110 [INFO] message=Booting worker with pid: 28
+2024-06-26 22:11:41,716 [INFO] message=Started server process [28]
+2024-06-26 22:11:41,718 [INFO] message=Waiting for application startup.
+2024-06-26 22:11:41,719 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:11:41,720 [INFO] message=Application startup complete.
+2024-06-26 22:12:10,480 [INFO] message=('172.30.0.13', 58760) - "WebSocket /ws/lobby/" 403
+2024-06-26 22:12:10,484 [INFO] message=connection rejected (403 Forbidden)
+2024-06-26 22:12:10,506 [INFO] message=connection closed
+2024-06-26 22:12:10,542 [INFO] message=('172.30.0.13', 58762) - "WebSocket /ws/online/" 403
+2024-06-26 22:12:10,544 [INFO] message=connection rejected (403 Forbidden)
+2024-06-26 22:12:10,546 [INFO] message=connection closed
+2024-06-26 22:12:14,683 [INFO] message=('172.30.0.13', 58812) - "WebSocket /ws/lobby/" [accepted]
+2024-06-26 22:12:14,687 [INFO] message=connection open
+2024-06-26 22:12:14,738 [INFO] message=('172.30.0.13', 58822) - "WebSocket /ws/online/" [accepted]
+2024-06-26 22:12:14,740 [INFO] message=connection open
+2024-06-26 22:12:16,441 [INFO] message=connection closed
+2024-06-26 22:12:16,488 [INFO] message=('172.30.0.13', 39298) - "WebSocket /ws/room/1/" [accepted]
+2024-06-26 22:12:16,489 [INFO] message=connection open
+2024-06-26 22:12:17,035 [INFO] message=connection closed
+2024-06-26 22:12:17,081 [INFO] message=('172.30.0.13', 39348) - "WebSocket /ws/lobby/" [accepted]
+2024-06-26 22:12:17,082 [INFO] message=connection open
+2024-06-26 22:16:04,867 [INFO] message=connection closed
+2024-06-26 22:16:04,868 [INFO] message=connection closed
+2024-06-26 22:16:37,081 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:16:37,083 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 22:16:37,084 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:16:37,088 [INFO] message=Booting worker with pid: 28
+2024-06-26 22:16:38,840 [INFO] message=Started server process [28]
+2024-06-26 22:16:38,843 [INFO] message=Waiting for application startup.
+2024-06-26 22:16:38,844 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:16:38,845 [INFO] message=Application startup complete.
+2024-06-26 22:17:24,608 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:17:24,612 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 22:17:24,614 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:17:24,619 [INFO] message=Booting worker with pid: 22
+2024-06-26 22:17:26,103 [INFO] message=Started server process [22]
+2024-06-26 22:17:26,112 [INFO] message=Waiting for application startup.
+2024-06-26 22:17:26,114 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:17:26,116 [INFO] message=Application startup complete.
+2024-06-26 22:36:35,272 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:36:35,273 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 22:36:35,274 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:36:35,277 [INFO] message=Booting worker with pid: 28
+2024-06-26 22:36:36,920 [INFO] message=Started server process [28]
+2024-06-26 22:36:36,926 [INFO] message=Waiting for application startup.
+2024-06-26 22:36:36,927 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:36:36,928 [INFO] message=Application startup complete.
+2024-06-26 22:39:49,954 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:39:49,957 [INFO] message=Listening at: http://0.0.0.0:8000 (27)
+2024-06-26 22:39:49,958 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:39:49,962 [INFO] message=Booting worker with pid: 28
+2024-06-26 22:39:51,448 [INFO] message=Started server process [28]
+2024-06-26 22:39:51,451 [INFO] message=Waiting for application startup.
+2024-06-26 22:39:51,452 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:39:51,453 [INFO] message=Application startup complete.
+2024-06-26 22:40:07,112 [INFO] message=('172.30.0.13', 60686) - "WebSocket /ws/lobby/" 403
+2024-06-26 22:40:07,113 [INFO] message=connection closed
+2024-06-26 22:40:07,150 [INFO] message=('172.30.0.13', 60700) - "WebSocket /ws/online/" 403
+2024-06-26 22:40:07,151 [INFO] message=connection rejected (403 Forbidden)
+2024-06-26 22:40:07,157 [INFO] message=connection closed
+2024-06-26 22:41:52,086 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:41:52,089 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-06-26 22:41:52,092 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:41:52,098 [INFO] message=Booting worker with pid: 25
+2024-06-26 22:41:53,586 [INFO] message=Started server process [25]
+2024-06-26 22:41:53,599 [INFO] message=Waiting for application startup.
+2024-06-26 22:41:53,600 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:41:53,601 [INFO] message=Application startup complete.
+2024-06-26 22:44:42,458 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:44:42,461 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-06-26 22:44:42,462 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:44:42,465 [INFO] message=Booting worker with pid: 21
+2024-06-26 22:44:44,256 [INFO] message=Started server process [21]
+2024-06-26 22:44:44,258 [INFO] message=Waiting for application startup.
+2024-06-26 22:44:44,259 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:44:44,263 [INFO] message=Application startup complete.
+2024-06-26 22:48:43,871 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:48:43,880 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 22:48:43,880 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:48:43,883 [INFO] message=Booting worker with pid: 22
+2024-06-26 22:48:45,315 [INFO] message=Started server process [22]
+2024-06-26 22:48:45,317 [INFO] message=Waiting for application startup.
+2024-06-26 22:48:45,319 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:48:45,320 [INFO] message=Application startup complete.
+2024-06-26 22:50:29,257 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 22:50:29,259 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 22:50:29,260 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 22:50:29,264 [INFO] message=Booting worker with pid: 28
+2024-06-26 22:50:30,899 [INFO] message=Started server process [28]
+2024-06-26 22:50:30,902 [INFO] message=Waiting for application startup.
+2024-06-26 22:50:30,902 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 22:50:30,903 [INFO] message=Application startup complete.
+2024-06-26 23:00:29,405 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:00:29,408 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 23:00:29,409 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:00:29,415 [INFO] message=Booting worker with pid: 22
+2024-06-26 23:00:31,117 [INFO] message=Started server process [22]
+2024-06-26 23:00:31,126 [INFO] message=Waiting for application startup.
+2024-06-26 23:00:31,128 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:00:31,129 [INFO] message=Application startup complete.
+2024-06-26 23:02:48,705 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:02:48,708 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 23:02:48,709 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:02:48,712 [INFO] message=Booting worker with pid: 28
+2024-06-26 23:02:50,506 [INFO] message=Started server process [28]
+2024-06-26 23:02:50,514 [INFO] message=Waiting for application startup.
+2024-06-26 23:02:50,516 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:02:50,517 [INFO] message=Application startup complete.
+2024-06-26 23:04:26,231 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:04:26,233 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 23:04:26,234 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:04:26,240 [INFO] message=Booting worker with pid: 28
+2024-06-26 23:04:27,940 [INFO] message=Started server process [28]
+2024-06-26 23:04:27,955 [INFO] message=Waiting for application startup.
+2024-06-26 23:04:27,956 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:04:27,964 [INFO] message=Application startup complete.
+2024-06-26 23:05:48,830 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:05:48,832 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 23:05:48,833 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:05:48,840 [INFO] message=Booting worker with pid: 22
+2024-06-26 23:05:50,311 [INFO] message=Started server process [22]
+2024-06-26 23:05:50,324 [INFO] message=Waiting for application startup.
+2024-06-26 23:05:50,325 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:05:50,326 [INFO] message=Application startup complete.
+2024-06-26 23:08:09,898 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:08:09,899 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 23:08:09,900 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:08:09,904 [INFO] message=Booting worker with pid: 24
+2024-06-26 23:08:11,751 [INFO] message=Started server process [24]
+2024-06-26 23:08:11,754 [INFO] message=Waiting for application startup.
+2024-06-26 23:08:11,755 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:08:11,756 [INFO] message=Application startup complete.
+2024-06-26 23:18:23,472 [INFO] message=('172.30.0.13', 58056) - "WebSocket /ws/lobby/" [accepted]
+2024-06-26 23:18:23,473 [INFO] message=connection open
+2024-06-26 23:18:23,536 [INFO] message=('172.30.0.13', 58082) - "WebSocket /ws/online/" [accepted]
+2024-06-26 23:18:23,537 [INFO] message=connection open
+2024-06-26 23:20:41,797 [INFO] message=connection closed
+2024-06-26 23:20:41,799 [INFO] message=connection closed
+2024-06-26 23:21:14,585 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:21:14,594 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 23:21:14,598 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:21:14,608 [INFO] message=Booting worker with pid: 27
+2024-06-26 23:21:16,930 [INFO] message=Started server process [27]
+2024-06-26 23:21:16,934 [INFO] message=Waiting for application startup.
+2024-06-26 23:21:16,935 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:21:16,936 [INFO] message=Application startup complete.
+2024-06-26 23:41:24,811 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:41:24,813 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 23:41:24,814 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:41:24,819 [INFO] message=Booting worker with pid: 22
+2024-06-26 23:41:26,423 [INFO] message=Started server process [22]
+2024-06-26 23:41:26,427 [INFO] message=Waiting for application startup.
+2024-06-26 23:41:26,428 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:41:26,429 [INFO] message=Application startup complete.
+2024-06-26 23:44:51,190 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:44:51,195 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 23:44:51,196 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:44:51,200 [INFO] message=Booting worker with pid: 22
+2024-06-26 23:44:52,908 [INFO] message=Started server process [22]
+2024-06-26 23:44:52,910 [INFO] message=Waiting for application startup.
+2024-06-26 23:44:52,911 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:44:52,912 [INFO] message=Application startup complete.
+2024-06-26 23:45:53,596 [INFO] message=('172.30.0.13', 41062) - "WebSocket /ws/lobby/" 403
+2024-06-26 23:45:53,597 [INFO] message=connection closed
+2024-06-26 23:45:53,611 [INFO] message=('172.30.0.13', 41070) - "WebSocket /ws/online/" 403
+2024-06-26 23:45:53,613 [INFO] message=connection rejected (403 Forbidden)
+2024-06-26 23:45:53,614 [INFO] message=connection closed
+2024-06-26 23:49:11,752 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:49:11,754 [INFO] message=Listening at: http://0.0.0.0:8000 (26)
+2024-06-26 23:49:11,754 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:49:11,757 [INFO] message=Booting worker with pid: 27
+2024-06-26 23:49:13,064 [INFO] message=Started server process [27]
+2024-06-26 23:49:13,066 [INFO] message=Waiting for application startup.
+2024-06-26 23:49:13,067 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:49:13,068 [INFO] message=Application startup complete.
+2024-06-26 23:54:50,212 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:54:50,213 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-06-26 23:54:50,214 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:54:50,221 [INFO] message=Booting worker with pid: 21
+2024-06-26 23:54:51,967 [INFO] message=Started server process [21]
+2024-06-26 23:54:51,969 [INFO] message=Waiting for application startup.
+2024-06-26 23:54:51,970 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:54:51,971 [INFO] message=Application startup complete.
+2024-06-26 23:59:41,144 [INFO] message=Starting gunicorn 22.0.0
+2024-06-26 23:59:41,152 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-26 23:59:41,155 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-26 23:59:41,162 [INFO] message=Booting worker with pid: 29
+2024-06-26 23:59:42,674 [INFO] message=Started server process [29]
+2024-06-26 23:59:42,682 [INFO] message=Waiting for application startup.
+2024-06-26 23:59:42,684 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-26 23:59:42,686 [INFO] message=Application startup complete.
+2024-06-27 00:01:51,951 [INFO] message=Handling signal: term
+2024-06-27 00:06:45,198 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 00:06:45,264 [INFO] message=Listening at: http://0.0.0.0:8000 (27)
+2024-06-27 00:06:45,264 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 00:06:45,266 [INFO] message=Booting worker with pid: 28
+2024-06-27 00:06:47,720 [INFO] message=Started server process [28]
+2024-06-27 00:06:47,721 [INFO] message=Waiting for application startup.
+2024-06-27 00:06:47,722 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 00:06:47,723 [INFO] message=Application startup complete.
+2024-06-27 00:10:27,606 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 00:10:27,607 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-27 00:10:27,608 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 00:10:27,612 [INFO] message=Booting worker with pid: 22
+2024-06-27 00:10:28,871 [INFO] message=Started server process [22]
+2024-06-27 00:10:28,873 [INFO] message=Waiting for application startup.
+2024-06-27 00:10:28,875 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 00:10:28,875 [INFO] message=Application startup complete.
+2024-06-27 00:15:36,932 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 00:15:36,934 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-06-27 00:15:36,934 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 00:15:36,938 [INFO] message=Booting worker with pid: 21
+2024-06-27 00:15:38,029 [INFO] message=Started server process [21]
+2024-06-27 00:15:38,031 [INFO] message=Waiting for application startup.
+2024-06-27 00:15:38,032 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 00:15:38,033 [INFO] message=Application startup complete.
+2024-06-27 00:17:12,909 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 00:17:12,910 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-06-27 00:17:12,911 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 00:17:12,914 [INFO] message=Booting worker with pid: 21
+2024-06-27 00:17:13,945 [INFO] message=Started server process [21]
+2024-06-27 00:17:13,947 [INFO] message=Waiting for application startup.
+2024-06-27 00:17:13,947 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 00:17:13,948 [INFO] message=Application startup complete.
+2024-06-27 00:19:58,943 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 00:19:58,944 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-27 00:19:58,945 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 00:19:58,948 [INFO] message=Booting worker with pid: 22
+2024-06-27 00:20:00,046 [INFO] message=Started server process [22]
+2024-06-27 00:20:00,048 [INFO] message=Waiting for application startup.
+2024-06-27 00:20:00,049 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 00:20:00,050 [INFO] message=Application startup complete.
+2024-06-27 00:27:41,768 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 00:27:41,769 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-27 00:27:41,770 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 00:27:41,773 [INFO] message=Booting worker with pid: 22
+2024-06-27 00:27:43,083 [INFO] message=Started server process [22]
+2024-06-27 00:27:43,085 [INFO] message=Waiting for application startup.
+2024-06-27 00:27:43,086 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 00:27:43,087 [INFO] message=Application startup complete.
+2024-06-27 00:29:39,753 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 00:29:39,754 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-06-27 00:29:39,755 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 00:29:39,760 [INFO] message=Booting worker with pid: 21
+2024-06-27 00:29:40,707 [INFO] message=Started server process [21]
+2024-06-27 00:29:40,709 [INFO] message=Waiting for application startup.
+2024-06-27 00:29:40,709 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 00:29:40,710 [INFO] message=Application startup complete.
+2024-06-27 01:13:20,096 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 01:13:20,097 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-27 01:13:20,097 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 01:13:20,102 [INFO] message=Booting worker with pid: 22
+2024-06-27 01:13:21,238 [INFO] message=Started server process [22]
+2024-06-27 01:13:21,240 [INFO] message=Waiting for application startup.
+2024-06-27 01:13:21,240 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 01:13:21,241 [INFO] message=Application startup complete.
+2024-06-27 01:18:28,383 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 01:18:28,385 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-27 01:18:28,386 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 01:18:28,389 [INFO] message=Booting worker with pid: 22
+2024-06-27 01:18:29,464 [INFO] message=Started server process [22]
+2024-06-27 01:18:29,466 [INFO] message=Waiting for application startup.
+2024-06-27 01:18:29,468 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 01:18:29,469 [INFO] message=Application startup complete.
+2024-06-27 01:53:13,562 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 01:53:13,563 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-27 01:53:13,564 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 01:53:13,567 [INFO] message=Booting worker with pid: 22
+2024-06-27 01:53:14,596 [INFO] message=Started server process [22]
+2024-06-27 01:53:14,598 [INFO] message=Waiting for application startup.
+2024-06-27 01:53:14,599 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 01:53:14,600 [INFO] message=Application startup complete.
+2024-06-27 01:57:13,247 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 01:57:13,248 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-27 01:57:13,249 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 01:57:13,253 [INFO] message=Booting worker with pid: 22
+2024-06-27 01:57:14,228 [INFO] message=Started server process [22]
+2024-06-27 01:57:14,230 [INFO] message=Waiting for application startup.
+2024-06-27 01:57:14,231 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 01:57:14,231 [INFO] message=Application startup complete.
+2024-06-27 01:58:44,585 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 01:58:44,586 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-06-27 01:58:44,587 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 01:58:44,590 [INFO] message=Booting worker with pid: 21
+2024-06-27 01:58:45,614 [INFO] message=Started server process [21]
+2024-06-27 01:58:45,616 [INFO] message=Waiting for application startup.
+2024-06-27 01:58:45,616 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 01:58:45,617 [INFO] message=Application startup complete.
+2024-06-27 01:59:54,349 [INFO] message=Starting gunicorn 22.0.0
+2024-06-27 01:59:54,350 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-06-27 01:59:54,351 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-27 01:59:54,354 [INFO] message=Booting worker with pid: 21
+2024-06-27 01:59:55,468 [INFO] message=Started server process [21]
+2024-06-27 01:59:55,470 [INFO] message=Waiting for application startup.
+2024-06-27 01:59:55,471 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-27 01:59:55,472 [INFO] message=Application startup complete.
+2024-06-30 09:06:32,794 [INFO] message=Starting gunicorn 22.0.0
+2024-06-30 09:06:32,798 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-30 09:06:32,799 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-30 09:06:32,802 [INFO] message=Booting worker with pid: 22
+2024-06-30 09:06:33,607 [INFO] message=Started server process [22]
+2024-06-30 09:06:33,608 [INFO] message=Waiting for application startup.
+2024-06-30 09:06:33,609 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-30 09:06:33,609 [INFO] message=Application startup complete.
+2024-06-30 09:07:09,196 [INFO] message=Starting gunicorn 22.0.0
+2024-06-30 09:07:09,198 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-06-30 09:07:09,198 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-06-30 09:07:09,201 [INFO] message=Booting worker with pid: 22
+2024-06-30 09:07:10,209 [INFO] message=Started server process [22]
+2024-06-30 09:07:10,211 [INFO] message=Waiting for application startup.
+2024-06-30 09:07:10,212 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-06-30 09:07:10,213 [INFO] message=Application startup complete.
+2024-07-02 08:01:17,790 [INFO] message=Starting gunicorn 22.0.0
+2024-07-02 08:01:17,794 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-07-02 08:01:17,795 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-02 08:01:17,798 [INFO] message=Booting worker with pid: 22
+2024-07-02 08:01:19,032 [INFO] message=Started server process [22]
+2024-07-02 08:01:19,034 [INFO] message=Waiting for application startup.
+2024-07-02 08:01:19,036 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-02 08:01:19,037 [INFO] message=Application startup complete.
+2024-07-02 08:10:57,507 [INFO] message=('172.18.0.11', 54812) - "WebSocket /ws/lobby/" [accepted]
+2024-07-02 08:10:57,509 [INFO] message=connection open
+2024-07-02 08:10:57,556 [INFO] message=('172.18.0.11', 54832) - "WebSocket /ws/online/" [accepted]
+2024-07-02 08:10:57,558 [INFO] message=connection open
+2024-07-02 08:45:04,164 [INFO] message=connection closed
+2024-07-02 08:45:04,165 [INFO] message=connection closed
+2024-07-03 08:36:45,789 [INFO] message=Starting gunicorn 22.0.0
+2024-07-03 08:36:45,807 [INFO] message=Listening at: http://0.0.0.0:8000 (17)
+2024-07-03 08:36:45,808 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-03 08:36:45,812 [INFO] message=Booting worker with pid: 18
+2024-07-03 08:36:46,104 [ERROR] message=Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/workers.py", line 68, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+                ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+                    ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/code/backend/asgi.py", line 14, in <module>
+    import ft_game.routing
+  File "/code/ft_game/routing.py", line 2, in <module>
+    from . import consumers
+  File "/code/ft_game/consumers.py", line 4, in <module>
+    django.setup()
+  File "/usr/local/lib/python3.12/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+                      ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 89, in __getattr__
+    self._setup(name)
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 76, in _setup
+    self._wrapped = Settings(settings_module)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 190, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/code/backend/settings.py", line 17, in <module>
+    from google.oauth2 import service_account
+ModuleNotFoundError: No module named 'google'
+2024-07-03 08:36:46,113 [INFO] message=Worker exiting (pid: 18)
+2024-07-03 08:36:46,165 [ERROR] message=Worker (pid:18) exited with code 3
+2024-07-03 08:36:46,166 [ERROR] message=Shutting down: Master
+2024-07-03 08:36:46,166 [ERROR] message=Reason: Worker failed to boot.
+2024-07-03 08:36:48,228 [INFO] message=Starting gunicorn 22.0.0
+2024-07-03 08:36:48,229 [INFO] message=Listening at: http://0.0.0.0:8000 (16)
+2024-07-03 08:36:48,229 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-03 08:36:48,232 [INFO] message=Booting worker with pid: 17
+2024-07-03 08:36:48,460 [ERROR] message=Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/workers.py", line 68, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+                ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+                    ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/code/backend/asgi.py", line 14, in <module>
+    import ft_game.routing
+  File "/code/ft_game/routing.py", line 2, in <module>
+    from . import consumers
+  File "/code/ft_game/consumers.py", line 4, in <module>
+    django.setup()
+  File "/usr/local/lib/python3.12/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+                      ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 89, in __getattr__
+    self._setup(name)
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 76, in _setup
+    self._wrapped = Settings(settings_module)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 190, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/code/backend/settings.py", line 17, in <module>
+    from google.oauth2 import service_account
+ModuleNotFoundError: No module named 'google'
+2024-07-03 08:36:48,467 [INFO] message=Worker exiting (pid: 17)
+2024-07-03 08:36:48,518 [ERROR] message=Worker (pid:17) exited with code 3
+2024-07-03 08:36:48,519 [ERROR] message=Shutting down: Master
+2024-07-03 08:36:48,519 [ERROR] message=Reason: Worker failed to boot.
+2024-07-03 08:36:50,463 [INFO] message=Starting gunicorn 22.0.0
+2024-07-03 08:36:50,464 [INFO] message=Listening at: http://0.0.0.0:8000 (16)
+2024-07-03 08:36:50,464 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-03 08:36:50,466 [INFO] message=Booting worker with pid: 17
+2024-07-03 08:36:50,681 [ERROR] message=Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/workers.py", line 68, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+                ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+                    ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/code/backend/asgi.py", line 14, in <module>
+    import ft_game.routing
+  File "/code/ft_game/routing.py", line 2, in <module>
+    from . import consumers
+  File "/code/ft_game/consumers.py", line 4, in <module>
+    django.setup()
+  File "/usr/local/lib/python3.12/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+                      ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 89, in __getattr__
+    self._setup(name)
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 76, in _setup
+    self._wrapped = Settings(settings_module)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 190, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/code/backend/settings.py", line 17, in <module>
+    from google.oauth2 import service_account
+ModuleNotFoundError: No module named 'google'
+2024-07-03 08:36:50,687 [INFO] message=Worker exiting (pid: 17)
+2024-07-03 08:36:50,734 [ERROR] message=Worker (pid:17) exited with code 3
+2024-07-03 08:36:50,735 [ERROR] message=Shutting down: Master
+2024-07-03 08:36:50,736 [ERROR] message=Reason: Worker failed to boot.
+2024-07-03 08:36:52,974 [INFO] message=Starting gunicorn 22.0.0
+2024-07-03 08:36:52,975 [INFO] message=Listening at: http://0.0.0.0:8000 (16)
+2024-07-03 08:36:52,975 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-03 08:36:52,978 [INFO] message=Booting worker with pid: 17
+2024-07-03 08:36:53,190 [ERROR] message=Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.12/site-packages/uvicorn/workers.py", line 68, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+                ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+                    ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/code/backend/asgi.py", line 14, in <module>
+    import ft_game.routing
+  File "/code/ft_game/routing.py", line 2, in <module>
+    from . import consumers
+  File "/code/ft_game/consumers.py", line 4, in <module>
+    django.setup()
+  File "/usr/local/lib/python3.12/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+                      ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 89, in __getattr__
+    self._setup(name)
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 76, in _setup
+    self._wrapped = Settings(settings_module)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/conf/__init__.py", line 190, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/code/backend/settings.py", line 17, in <module>
+    from google.oauth2 import service_account
+ModuleNotFoundError: No module named 'google'
+2024-07-03 08:36:53,196 [INFO] message=Worker exiting (pid: 17)
+2024-07-03 08:36:53,242 [ERROR] message=Worker (pid:17) exited with code 3
+2024-07-03 08:36:53,243 [ERROR] message=Shutting down: Master
+2024-07-03 08:36:53,244 [ERROR] message=Reason: Worker failed to boot.
+2024-07-08 02:49:15,839 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 02:49:15,843 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-07-08 02:49:15,844 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 02:49:15,847 [INFO] message=Booting worker with pid: 21
+2024-07-08 02:49:16,945 [INFO] message=Started server process [21]
+2024-07-08 02:49:16,947 [INFO] message=Waiting for application startup.
+2024-07-08 02:49:16,948 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 02:49:16,949 [INFO] message=Application startup complete.
+2024-07-08 02:49:41,943 [INFO] message=('172.18.0.12', 60628) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 02:49:41,948 [INFO] message=connection open
+2024-07-08 02:49:41,998 [INFO] message=('172.18.0.12', 60638) - "WebSocket /ws/online/" [accepted]
+2024-07-08 02:49:42,000 [INFO] message=connection open
+2024-07-08 02:49:45,015 [INFO] message=connection closed
+2024-07-08 02:49:45,055 [INFO] message=('172.18.0.12', 60666) - "WebSocket /ws/room/1/" [accepted]
+2024-07-08 02:49:45,058 [INFO] message=connection open
+2024-07-08 02:49:51,086 [INFO] message=connection closed
+2024-07-08 02:49:51,132 [INFO] message=('172.18.0.12', 60712) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 02:49:51,133 [INFO] message=connection open
+2024-07-08 02:49:51,815 [INFO] message=connection closed
+2024-07-08 02:49:51,816 [INFO] message=connection closed
+2024-07-08 02:49:51,971 [INFO] message=('172.18.0.12', 60918) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 02:49:51,973 [INFO] message=connection open
+2024-07-08 02:49:52,003 [INFO] message=('172.18.0.12', 60930) - "WebSocket /ws/online/" [accepted]
+2024-07-08 02:49:52,005 [INFO] message=connection open
+2024-07-08 02:50:13,212 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 02:50:13,214 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-07-08 02:50:13,214 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 02:50:13,217 [INFO] message=Booting worker with pid: 22
+2024-07-08 02:50:13,951 [INFO] message=Started server process [22]
+2024-07-08 02:50:13,952 [INFO] message=Waiting for application startup.
+2024-07-08 02:50:13,953 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 02:50:13,954 [INFO] message=Application startup complete.
+2024-07-08 02:50:25,611 [INFO] message=('172.18.0.12', 33156) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 02:50:25,612 [INFO] message=connection open
+2024-07-08 02:50:25,639 [INFO] message=('172.18.0.12', 33168) - "WebSocket /ws/online/" [accepted]
+2024-07-08 02:50:25,640 [INFO] message=connection open
+2024-07-08 02:50:30,530 [INFO] message=connection closed
+2024-07-08 02:50:30,573 [INFO] message=('172.18.0.12', 33188) - "WebSocket /ws/room/1/" [accepted]
+2024-07-08 02:50:30,574 [INFO] message=connection open
+2024-07-08 02:50:31,558 [INFO] message=connection closed
+2024-07-08 02:50:31,625 [INFO] message=('172.18.0.12', 33222) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 02:50:31,627 [INFO] message=connection open
+2024-07-08 02:50:40,917 [INFO] message=connection closed
+2024-07-08 02:50:40,919 [INFO] message=connection closed
+2024-07-08 02:50:44,054 [INFO] message=('172.18.0.12', 33776) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 02:50:44,055 [INFO] message=connection open
+2024-07-08 02:50:44,082 [INFO] message=('172.18.0.12', 33788) - "WebSocket /ws/online/" [accepted]
+2024-07-08 02:50:44,083 [INFO] message=connection open
+2024-07-08 02:51:00,133 [INFO] message=connection closed
+2024-07-08 02:51:04,172 [INFO] message=('172.18.0.12', 33946) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 02:51:04,173 [INFO] message=connection open
+2024-07-08 02:51:05,292 [INFO] message=connection closed
+2024-07-08 02:51:05,293 [INFO] message=connection closed
+2024-07-08 02:51:05,515 [INFO] message=('172.18.0.12', 34176) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 02:51:05,516 [INFO] message=connection open
+2024-07-08 02:51:05,544 [INFO] message=('172.18.0.12', 34190) - "WebSocket /ws/online/" [accepted]
+2024-07-08 02:51:05,546 [INFO] message=connection open
+2024-07-08 02:51:08,372 [INFO] message=connection closed
+2024-07-08 02:51:08,374 [INFO] message=connection closed
+2024-07-08 02:51:57,973 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 02:51:57,974 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-07-08 02:51:57,975 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 02:51:57,979 [INFO] message=Booting worker with pid: 22
+2024-07-08 02:51:59,077 [INFO] message=Started server process [22]
+2024-07-08 02:51:59,080 [INFO] message=Waiting for application startup.
+2024-07-08 02:51:59,083 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 02:51:59,085 [INFO] message=Application startup complete.
+2024-07-08 03:10:56,394 [INFO] message=('172.19.0.4', 34326) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 03:10:56,396 [INFO] message=connection open
+2024-07-08 03:10:56,426 [INFO] message=('172.19.0.4', 34338) - "WebSocket /ws/online/" [accepted]
+2024-07-08 03:10:56,427 [INFO] message=connection open
+2024-07-08 04:04:13,310 [INFO] message=connection closed
+2024-07-08 04:04:13,315 [INFO] message=connection closed
+2024-07-08 05:06:54,755 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 05:06:54,889 [INFO] message=Listening at: http://0.0.0.0:8000 (27)
+2024-07-08 05:06:54,890 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 05:06:54,892 [INFO] message=Booting worker with pid: 28
+2024-07-08 05:06:57,325 [INFO] message=Started server process [28]
+2024-07-08 05:06:57,327 [INFO] message=Waiting for application startup.
+2024-07-08 05:06:57,328 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 05:06:57,328 [INFO] message=Application startup complete.
+2024-07-08 05:39:55,660 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 05:39:55,662 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-07-08 05:39:55,662 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 05:39:55,666 [INFO] message=Booting worker with pid: 22
+2024-07-08 05:39:56,753 [INFO] message=Started server process [22]
+2024-07-08 05:39:56,755 [INFO] message=Waiting for application startup.
+2024-07-08 05:39:56,756 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 05:39:56,757 [INFO] message=Application startup complete.
+2024-07-08 05:43:12,536 [INFO] message=('172.18.0.6', 53370) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 05:43:12,538 [INFO] message=connection open
+2024-07-08 05:43:12,584 [INFO] message=('172.18.0.6', 53400) - "WebSocket /ws/online/" [accepted]
+2024-07-08 05:43:12,585 [INFO] message=connection open
+2024-07-08 05:44:30,224 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 05:44:30,225 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-07-08 05:44:30,225 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 05:44:30,229 [INFO] message=Booting worker with pid: 22
+2024-07-08 05:44:30,986 [INFO] message=Started server process [22]
+2024-07-08 05:44:30,988 [INFO] message=Waiting for application startup.
+2024-07-08 05:44:30,988 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 05:44:30,989 [INFO] message=Application startup complete.
+2024-07-08 05:44:48,641 [INFO] message=('172.18.0.6', 53934) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 05:44:48,642 [INFO] message=connection open
+2024-07-08 05:44:48,685 [INFO] message=('172.18.0.6', 53950) - "WebSocket /ws/online/" [accepted]
+2024-07-08 05:44:48,686 [INFO] message=connection open
+2024-07-08 05:45:52,771 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 05:45:52,772 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-07-08 05:45:52,773 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 05:45:52,776 [INFO] message=Booting worker with pid: 22
+2024-07-08 05:45:53,507 [INFO] message=Started server process [22]
+2024-07-08 05:45:53,509 [INFO] message=Waiting for application startup.
+2024-07-08 05:45:53,510 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 05:45:53,511 [INFO] message=Application startup complete.
+2024-07-08 05:45:58,557 [INFO] message=('172.18.0.6', 54314) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 05:45:58,559 [INFO] message=connection open
+2024-07-08 05:45:58,588 [INFO] message=('172.18.0.6', 54324) - "WebSocket /ws/online/" [accepted]
+2024-07-08 05:45:58,589 [INFO] message=connection open
+2024-07-08 05:46:35,787 [INFO] message=connection closed
+2024-07-08 05:46:35,788 [INFO] message=connection closed
+2024-07-08 05:46:35,969 [INFO] message=('172.18.0.6', 54568) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 05:46:35,971 [INFO] message=connection open
+2024-07-08 05:46:36,005 [INFO] message=('172.18.0.6', 54580) - "WebSocket /ws/online/" [accepted]
+2024-07-08 05:46:36,006 [INFO] message=connection open
+2024-07-08 05:49:42,511 [INFO] message=connection closed
+2024-07-08 05:49:42,512 [INFO] message=connection closed
+2024-07-08 05:54:41,365 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 05:54:41,367 [INFO] message=Listening at: http://0.0.0.0:8000 (20)
+2024-07-08 05:54:41,368 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 05:54:41,373 [INFO] message=Booting worker with pid: 21
+2024-07-08 05:54:42,507 [INFO] message=Started server process [21]
+2024-07-08 05:54:42,513 [INFO] message=Waiting for application startup.
+2024-07-08 05:54:42,514 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 05:54:42,518 [INFO] message=Application startup complete.
+2024-07-08 05:54:58,244 [INFO] message=('172.19.0.12', 48990) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 05:54:58,245 [INFO] message=connection open
+2024-07-08 05:54:58,297 [INFO] message=('172.19.0.12', 48998) - "WebSocket /ws/online/" [accepted]
+2024-07-08 05:54:58,299 [INFO] message=connection open
+2024-07-08 05:56:28,001 [INFO] message=('172.19.0.12', 49582) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 05:56:28,002 [INFO] message=connection open
+2024-07-08 05:56:28,041 [INFO] message=('172.19.0.12', 49600) - "WebSocket /ws/online/" [accepted]
+2024-07-08 05:56:28,043 [INFO] message=connection open
+2024-07-08 05:56:32,058 [INFO] message=connection closed
+2024-07-08 05:57:20,889 [INFO] message=connection closed
+2024-07-08 05:57:20,891 [INFO] message=connection closed
+2024-07-08 05:57:21,249 [INFO] message=('172.19.0.12', 49946) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 05:57:21,251 [INFO] message=connection open
+2024-07-08 05:57:21,323 [INFO] message=('172.19.0.12', 49956) - "WebSocket /ws/online/" [accepted]
+2024-07-08 05:57:21,324 [INFO] message=connection open
+2024-07-08 05:58:24,950 [INFO] message=connection closed
+2024-07-08 05:58:24,951 [INFO] message=connection closed
+2024-07-08 05:58:33,212 [INFO] message=connection closed
+2024-07-08 06:04:30,699 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 06:04:30,701 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-07-08 06:04:30,702 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 06:04:30,707 [INFO] message=Booting worker with pid: 22
+2024-07-08 06:04:32,351 [INFO] message=Started server process [22]
+2024-07-08 06:04:32,354 [INFO] message=Waiting for application startup.
+2024-07-08 06:04:32,354 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 06:04:32,356 [INFO] message=Application startup complete.
+2024-07-08 06:04:40,363 [INFO] message=('172.20.0.12', 45884) - "WebSocket /ws/online/" 403
+2024-07-08 06:04:40,365 [INFO] message=connection rejected (403 Forbidden)
+2024-07-08 06:04:40,366 [INFO] message=connection closed
+2024-07-08 06:04:42,972 [INFO] message=('172.20.0.12', 46108) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:04:42,973 [INFO] message=connection open
+2024-07-08 06:04:43,000 [INFO] message=('172.20.0.12', 46122) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:04:43,001 [INFO] message=connection open
+2024-07-08 06:04:54,320 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 06:04:54,321 [INFO] message=Listening at: http://0.0.0.0:8000 (21)
+2024-07-08 06:04:54,322 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 06:04:54,325 [INFO] message=Booting worker with pid: 22
+2024-07-08 06:04:55,092 [INFO] message=Started server process [22]
+2024-07-08 06:04:55,094 [INFO] message=Waiting for application startup.
+2024-07-08 06:04:55,095 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 06:04:55,095 [INFO] message=Application startup complete.
+2024-07-08 06:04:59,219 [INFO] message=('172.20.0.12', 46362) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:04:59,221 [INFO] message=connection open
+2024-07-08 06:04:59,248 [INFO] message=('172.20.0.12', 46376) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:04:59,249 [INFO] message=connection open
+2024-07-08 06:05:02,639 [INFO] message=connection closed
+2024-07-08 06:05:02,640 [INFO] message=connection closed
+2024-07-08 06:05:25,050 [INFO] message=('172.20.0.12', 46942) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:05:25,052 [INFO] message=connection open
+2024-07-08 06:05:25,107 [INFO] message=('172.20.0.12', 46962) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:05:25,109 [INFO] message=connection open
+2024-07-08 06:05:38,855 [INFO] message=('172.20.0.12', 47372) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:05:38,856 [INFO] message=connection open
+2024-07-08 06:05:38,878 [INFO] message=('172.20.0.12', 47388) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:05:38,879 [INFO] message=connection open
+2024-07-08 06:06:17,632 [INFO] message=connection closed
+2024-07-08 06:06:17,633 [INFO] message=connection closed
+2024-07-08 06:06:17,634 [INFO] message=connection closed
+2024-07-08 06:06:17,635 [INFO] message=connection closed
+2024-07-08 06:09:38,148 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 06:09:38,150 [INFO] message=Listening at: http://0.0.0.0:8000 (23)
+2024-07-08 06:09:38,150 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 06:09:38,154 [INFO] message=Booting worker with pid: 24
+2024-07-08 06:09:39,248 [INFO] message=Started server process [24]
+2024-07-08 06:09:39,258 [INFO] message=Waiting for application startup.
+2024-07-08 06:09:39,259 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 06:09:39,260 [INFO] message=Application startup complete.
+2024-07-08 06:10:04,968 [INFO] message=('172.21.0.13', 53794) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:10:04,972 [INFO] message=connection open
+2024-07-08 06:10:04,989 [INFO] message=connection closed
+2024-07-08 06:10:05,019 [INFO] message=('172.21.0.13', 53804) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:10:05,021 [INFO] message=connection open
+2024-07-08 06:10:53,769 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 06:10:53,770 [INFO] message=Listening at: http://0.0.0.0:8000 (23)
+2024-07-08 06:10:53,770 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 06:10:53,773 [INFO] message=Booting worker with pid: 24
+2024-07-08 06:10:54,541 [INFO] message=Started server process [24]
+2024-07-08 06:10:54,543 [INFO] message=Waiting for application startup.
+2024-07-08 06:10:54,544 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 06:10:54,544 [INFO] message=Application startup complete.
+2024-07-08 06:11:01,082 [INFO] message=('172.21.0.13', 54302) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:11:01,084 [INFO] message=connection open
+2024-07-08 06:11:01,101 [INFO] message=connection closed
+2024-07-08 06:11:01,121 [INFO] message=('172.21.0.13', 54312) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:11:01,122 [INFO] message=connection open
+2024-07-08 06:12:11,974 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 06:12:11,975 [INFO] message=Listening at: http://0.0.0.0:8000 (23)
+2024-07-08 06:12:11,976 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 06:12:11,979 [INFO] message=Booting worker with pid: 24
+2024-07-08 06:12:12,727 [INFO] message=Started server process [24]
+2024-07-08 06:12:12,729 [INFO] message=Waiting for application startup.
+2024-07-08 06:12:12,729 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 06:12:12,730 [INFO] message=Application startup complete.
+2024-07-08 06:12:22,869 [INFO] message=('172.21.0.13', 54888) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:12:22,872 [INFO] message=connection open
+2024-07-08 06:12:22,917 [INFO] message=('172.21.0.13', 54908) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:12:22,918 [INFO] message=connection closed
+2024-07-08 06:12:22,919 [INFO] message=connection open
+2024-07-08 06:12:52,453 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 06:12:52,454 [INFO] message=Listening at: http://0.0.0.0:8000 (23)
+2024-07-08 06:12:52,455 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 06:12:52,458 [INFO] message=Booting worker with pid: 24
+2024-07-08 06:12:53,203 [INFO] message=Started server process [24]
+2024-07-08 06:12:53,205 [INFO] message=Waiting for application startup.
+2024-07-08 06:12:53,205 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 06:12:53,206 [INFO] message=Application startup complete.
+2024-07-08 06:12:57,761 [INFO] message=('172.21.0.13', 55348) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:12:57,762 [INFO] message=connection open
+2024-07-08 06:12:57,784 [INFO] message=connection closed
+2024-07-08 06:12:57,799 [INFO] message=('172.21.0.13', 55362) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:12:57,800 [INFO] message=connection open
+2024-07-08 06:14:08,187 [INFO] message=Handling signal: hup
+2024-07-08 06:14:12,255 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 06:14:12,257 [INFO] message=Listening at: http://0.0.0.0:8000 (23)
+2024-07-08 06:14:12,257 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 06:14:12,260 [INFO] message=Booting worker with pid: 24
+2024-07-08 06:14:12,981 [INFO] message=Started server process [24]
+2024-07-08 06:14:12,983 [INFO] message=Waiting for application startup.
+2024-07-08 06:14:12,983 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 06:14:12,984 [INFO] message=Application startup complete.
+2024-07-08 06:14:21,002 [INFO] message=('172.21.0.13', 55894) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:14:21,004 [INFO] message=connection open
+2024-07-08 06:14:21,037 [INFO] message=connection closed
+2024-07-08 06:14:21,041 [INFO] message=('172.21.0.13', 55906) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:14:21,043 [INFO] message=connection open
+2024-07-08 06:17:00,435 [INFO] message=Starting gunicorn 22.0.0
+2024-07-08 06:17:00,436 [INFO] message=Listening at: http://0.0.0.0:8000 (23)
+2024-07-08 06:17:00,437 [INFO] message=Using worker: uvicorn.workers.UvicornWorker
+2024-07-08 06:17:00,440 [INFO] message=Booting worker with pid: 24
+2024-07-08 06:17:01,166 [INFO] message=Started server process [24]
+2024-07-08 06:17:01,168 [INFO] message=Waiting for application startup.
+2024-07-08 06:17:01,169 [INFO] message=ASGI 'lifespan' protocol appears unsupported.
+2024-07-08 06:17:01,169 [INFO] message=Application startup complete.
+2024-07-08 06:17:15,224 [INFO] message=('172.21.0.13', 56538) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:17:15,225 [INFO] message=connection open
+2024-07-08 06:17:15,254 [INFO] message=('172.21.0.13', 56550) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:17:15,255 [INFO] message=connection open
+2024-07-08 06:17:15,272 [INFO] message=connection closed
+2024-07-08 06:18:41,817 [INFO] message=('172.21.0.13', 56834) - "WebSocket /ws/online/" 403
+2024-07-08 06:18:41,818 [INFO] message=connection rejected (403 Forbidden)
+2024-07-08 06:18:41,819 [INFO] message=connection closed
+2024-07-08 06:18:51,492 [INFO] message=connection closed
+2024-07-08 06:18:51,493 [ERROR] message=ASGI callable returned without sending handshake.
+2024-07-08 06:20:07,585 [INFO] message=('172.21.0.13', 57172) - "WebSocket /ws/lobby/" [accepted]
+2024-07-08 06:20:07,586 [INFO] message=connection open
+2024-07-08 06:20:07,617 [INFO] message=connection closed
+2024-07-08 06:20:07,620 [INFO] message=('172.21.0.13', 57184) - "WebSocket /ws/online/" [accepted]
+2024-07-08 06:20:07,621 [INFO] message=connection open
+2024-07-08 06:20:07,627 [INFO] message=connection closed
+2024-07-08 06:30:07,286 [INFO] message=connection closed
